@@ -6,13 +6,11 @@ description: >-
 
 # International Organizations
 
-### World Health Organization
+## World Health Organization
 
-{% embed url="https://www.who.int/health-topics/coronavirus" %}
+{% embed url="https://www.who.int/health-topics/coronavirus" caption="" %}
 
-### Centers for Disease Control and Prevention
+## Centers for Disease Control and Prevention
 
-{% embed url="https://www.cdc.gov/coronavirus/2019-nCoV/summary.html" %}
-
-
+{% embed url="https://www.cdc.gov/coronavirus/2019-nCoV/summary.html" caption="" %}
 

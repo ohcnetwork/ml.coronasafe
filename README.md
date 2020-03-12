@@ -6,25 +6,25 @@ description: >-
 
 # Corona Safe
 
-Coronaviruses refer to the family of viruses that are known to cause respiratory infections in both animals and humans. There are seven coronaviruses that are currently known to affect humans, out of which four are commonly found across the globe and cause mild cold like symptoms only. The remaining three are known to cause severe diseases such as [Middle East Respiratory Syndrome, or MERS caused by MERS-CoV](https://www.who.int/emergencies/mers-cov/en/), [Severe Acute Respiratory Syndrome caused by SARS-CoV](https://www.who.int/csr/sars/en/) and finally [Coronavirus Disease 2019 caused by SARS-CoV-2](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+മൃഗങ്ങളിലും മനുഷ്യരിലും ശ്വാസകോശ സംബന്ധമായ അണുബാധകൾ ഉണ്ടാക്കുന്ന വൈറസുകളുടെ കുടുംബത്തെ കൊറോണ വൈറസുകൾ പരാമർശിക്കുന്നു. നിലവിൽ ഏഴ് കൊറോണ വൈറസുകൾ മനുഷ്യരെ ബാധിക്കുന്നതായി അറിയപ്പെടുന്നു, അവയിൽ നാലെണ്ണം ലോകമെമ്പാടും സാധാരണയായി കാണപ്പെടുന്നു, മാത്രമല്ല ലക്ഷണങ്ങളെപ്പോലെ നേരിയ തണുപ്പിനും കാരണമാകുന്നു. ബാക്കിയുള്ള മൂന്നെണ്ണം മിഡിൽ ഈസ്റ്റ് റെസ്പിറേറ്ററി സിൻഡ്രോം, അല്ലെങ്കിൽ മെഴ്സ്-കോവി മൂലമുണ്ടായ മെഴ്സ്, സാർസ്-കോവി മൂലമുണ്ടാകുന്ന കടുത്ത അക്യൂട്ട് റെസ്പിറേറ്ററി സിൻഡ്രോം, ഒടുവിൽ സാർസ്-കോവി -2 മൂലമുണ്ടാകുന്ന കൊറോണ വൈറസ് രോഗം 2019 എന്നിവയ്ക്ക് കാരണമാകുമെന്ന് അറിയപ്പെടുന്നു.
 
-[COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) is a novel coronavirus that has never been previously identified in humans. It is zoonotic in nature, which means it can be transmitted from animal to human, and human to human interactions. It was first [reported](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/) from Wuhan City on 31 December 2019 in China. The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea.
+മനുഷ്യരിൽ മുമ്പ് തിരിച്ചറിഞ്ഞിട്ടില്ലാത്ത ഒരു നോവൽ കൊറോണ വൈറസാണ് കോവിഡ് -19. ഇത് പ്രകൃതിയിൽ സൂനോട്ടിക് ആണ്, അതിനർത്ഥം ഇത് മൃഗങ്ങളിൽ നിന്ന് മനുഷ്യനിലേക്കും മനുഷ്യനിൽ നിന്ന് മനുഷ്യ ഇടപെടലിലേക്കും പകരാം. 2019 ഡിസംബർ 31 ന് ചൈനയിൽ വുഹാൻ സിറ്റിയിൽ നിന്നാണ് ഇത് ആദ്യമായി റിപ്പോർട്ട് ചെയ്തത്. പനി, ക്ഷീണം, വരണ്ട ചുമ എന്നിവയാണ് COVID-19 ന്റെ ഏറ്റവും സാധാരണമായ ലക്ഷണങ്ങൾ. ചില രോഗികൾക്ക് വേദനയും വേദനയും, മൂക്കൊലിപ്പ്, മൂക്കൊലിപ്പ്, തൊണ്ടവേദന അല്ലെങ്കിൽ വയറിളക്കം എന്നിവ ഉണ്ടാകാം.
 
-Around 80% of the infected show only mild symptoms and recover with standard medical attention. Older people and those with an underlying or previous medical condition develop serious symptoms and without medical intervention can prove fatal. Around 14% of the infected become seriously ill and 5% critical.
+രോഗം ബാധിച്ചവരിൽ 80% പേരും നേരിയ ലക്ഷണങ്ങൾ മാത്രം കാണിക്കുകയും സാധാരണ വൈദ്യസഹായം തേടുകയും ചെയ്യുന്നു. പ്രായമായ ആളുകൾക്കും അടിസ്ഥാനപരമായ അല്ലെങ്കിൽ മുമ്പത്തെ മെഡിക്കൽ അവസ്ഥയിലുള്ളവർ ഗുരുതരമായ ലക്ഷണങ്ങൾ വികസിപ്പിക്കുകയും മെഡിക്കൽ ഇടപെടലില്ലാതെ മാരകമാണെന്ന് തെളിയിക്കുകയും ചെയ്യും. ഏകദേശം 14% രോഗബാധിതരും 5% ഗുരുതരാവസ്ഥയിലുമാണ്. 
 
-The virus has affected more than 100,000 globally and has caused more than 3000 deaths. WHO has given the status of Very High Risk at the Global Level.
+വൈറസ് ആഗോളതലത്തിൽ ഒരു ലക്ഷത്തിലധികം ആളുകളെ ബാധിക്കുകയും 3000 ത്തിലധികം മരണങ്ങൾക്ക് കാരണമാവുകയും ചെയ്തു. ലോകാരോഗ്യ സംഘടന ആഗോള തലത്തിൽ വളരെ ഉയർന്ന അപകടസാധ്യത നൽകി.
 
 {% hint style="danger" %}
-This guide is still a Work In Progress. Until some sections are complete we will be providing the official links for reference. You have to follow those instructions until the guide gets updated.
+ഈ ഗൈഡ് ഇപ്പോഴും പുരോഗതിയിലാണ്. ചില വിഭാഗങ്ങൾ പൂർത്തിയാകുന്നതുവരെ ഞങ്ങൾ റഫറൻസിനായി links ദ്യോഗിക ലിങ്കുകൾ നൽകും. ഗൈഡ് അപ്‌ഡേറ്റ് ചെയ്യുന്നതുവരെ നിങ്ങൾ ആ നിർദ്ദേശങ്ങൾ പാലിക്കണം.
 {% endhint %}
 
-## Why does this guide exist ?
+## എന്തുകൊണ്ടാണ് ഈ ഗൈഡ് നിലനിൽക്കുന്നത്?
 
-> **This guide is intended as a hub to collect information regarding preventive measures, information about the virus strain and official resources. These instructions are compiled from a variety of official sources.**
+> പ്രതിരോധ നടപടികൾ, വൈറസ് ബാധയെക്കുറിച്ചുള്ള വിവരങ്ങൾ, official ദ്യോഗിക വിഭവങ്ങൾ എന്നിവയെക്കുറിച്ചുള്ള വിവരങ്ങൾ ശേഖരിക്കുന്നതിനുള്ള ഒരു കേന്ദ്രമായി ഈ ഗൈഡ് ഉദ്ദേശിക്കുന്നു. ഈ നിർദ്ദേശങ്ങൾ വിവിധ official ദ്യോഗിക ഉറവിടങ്ങളിൽ നിന്ന് സമാഹരിച്ചിരിക്കുന്നു.
 
-COVID-19 is a novel corona virus, which means there isn't that much amount of information and public awareness about it. Most of the information is spread across a lot of independent governmental and non-governmental websites. There is also a lot of fake news and incorrect information circulating on Social Media about COVID-19 many of them life threatening.
+COVID-19 ഒരു നോവൽ കൊറോണ വൈറസാണ്, അതിനർത്ഥം അതിനെക്കുറിച്ച് കൂടുതൽ വിവരങ്ങളും പൊതു അവബോധവുമില്ല. മിക്ക വിവരങ്ങളും ധാരാളം സ്വതന്ത്ര സർക്കാർ, സർക്കാരിതര വെബ്‌സൈറ്റുകളിൽ വ്യാപിച്ചിരിക്കുന്നു. COVID-19 നെക്കുറിച്ച് ധാരാളം വ്യാജ വാർത്തകളും തെറ്റായ വിവരങ്ങളും സോഷ്യൽ മീഡിയയിൽ പ്രചരിക്കുന്നുണ്ട്, അവയിൽ പലതും ജീവന് ഭീഷണിയാണ്.
 
-This guide aggregates all that information into a single hub and distills into a user friendly format. This guide is also localized into many regional and national languages for a wider audience. We are always looking for contributors, you can [help out here](https://www.coronasafe.in/contribute).
+ഈ ഗൈഡ് ആ വിവരങ്ങളെല്ലാം ഒരൊറ്റ ഹബിലേക്ക് സമാഹരിക്കുകയും ഉപയോക്തൃ സൗഹൃദ ഫോർമാറ്റിലേക്ക് വാറ്റുകയും ചെയ്യുന്നു. വിശാലമായ പ്രേക്ഷകർക്കായി ഈ ഗൈഡ് നിരവധി പ്രാദേശിക, ദേശീയ ഭാഷകളിലേക്ക് പ്രാദേശികവൽക്കരിച്ചിരിക്കുന്നു. ഞങ്ങൾ എല്ലായ്പ്പോഴും സംഭാവകരെ തിരയുന്നു, നിങ്ങൾക്ക് ഇവിടെ സഹായിക്കാൻ കഴിയും.
 
 ## **Contents**
 

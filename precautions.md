@@ -30,7 +30,7 @@ COVID-19 വളരെ വലിയൊരു പകർച്ചവ്യാധി
 
 ### **ദൂരം നിലനിർത്തുക**
 
-Depending on the level of outbreak in your local community it is [advised ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)to keep a safe distance of at-least 1 meter \(&gt; 3 feet\) from anyone who is coughing or sneezing. If you are in the vicinity when the person sneezes or coughs they can produce small droplets which you can inhale and become infected if the person is infected.
+നിങ്ങളുടെ പ്രദേശത്തെ പകർച്ച വ്യാധിയുടെ തോത് അനുസരിച്ച്, ചുമയോ തുമ്മലോ ഉള്ള ഏതൊരാളിൽ നിന്നും കുറഞ്ഞത് ഒരു മീറ്റർ \(&gt; 3 അടി\) എങ്കിലും സുരക്ഷിതമായ അകലം പാലിക്കാൻ [നിർദ്ദേശിക്കുന്നു](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public). നിങ്ങൾ വൈറസ് ബാധിച്ച വ്യക്തിയുടെ സമീപത്ത് ആണ് എങ്കിൽ വൈറസ് ബാധിച്ച വ്യക്തി തുമ്മുകയോ ചുമക്കുകയോ ചെയ്യുമ്പോൾ വൈറസ് കണികകൾ പുറത്ത് വരുകയും, ശ്വാസത്തിലൂടെ രോഗം ബാധിക്കുകയും ചെയ്യും.
 
 ### തുമ്മുകയോ ചുമ ചെയ്യുകയോ ചെയ്യുമ്പോൾ വായും മൂക്കും കവർ ചെയ്യുക
 

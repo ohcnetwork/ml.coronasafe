@@ -23,8 +23,8 @@
   * രക്തം, മലം, ശരീര ദ്രാവകങ്ങൾ എന്നിവയുള്ള വസ്ത്രങ്ങളോ കട്ടിലുകളോ ഉടനടി നീക്കം ചെയ്ത് കഴുകുക.
   * മലിനമായ വസ്തുക്കൾ കൈകാര്യം ചെയ്യുമ്പോൾ ഡിസ്പോസിബിൾ ഗ്ലൗസുകൾ ധരിക്കുക, മലിനമായ വസ്തുക്കൾ നിങ്ങളുടെ ശരീരത്തിൽ നിന്ന് അകറ്റി നിർത്തുക. നിങ്ങളുടെ കയ്യുറകൾ നീക്കം ചെയ്ത ഉടനെ നിങ്ങളുടെ കൈകൾ \("സോപ്പും വെള്ളവും അല്ലെങ്കിൽ ആൽക്കഹോൾ അടിസ്ഥാനമാക്കിയുള്ള ഹാൻഡ് സാനിറ്റൈസർ"\) ഉപയോഗിച്ച് വൃത്തിയാക്കുക.
   * സോപ്പ്, ഡിറ്റർജന്റുകൾ എന്നിവയുടെ ലേബലുകളിലെ നിർദ്ദേശങ്ങൾ വായിക്കുക, പിന്തുടരുക. പൊതുവെ വാഷിംഗ് മെഷീൻ നിർദ്ദേശങ്ങൾക്കനുസരിച്ച് ഒരു സാധാരണ അലക്കുന്ന സോപ്പ് ഉപയോഗിച്ച് വസ്ത്ര ലേബലിൽ ശുപാർശ ചെയ്യുന്ന ചൂടുള്ള താപനില ഉപയോഗിച്ച് നന്നായി വരണ്ടതാക്കുക.
-* Place all used disposable gloves, facemasks, and other contaminated items in a lined container before disposing of them with other household waste. Clean your hands \(with soap and water or an alcohol-based hand sanitizer\) immediately after handling these items. Soap and water should be used preferentially if hands are visibly dirty.
-* Discuss any additional questions with your state or local health department or healthcare provider. Check available hours when contacting your local health department.
+* ഉപയോഗിച്ച എല്ലാ ഡിസ്പോസിബിൾ ഗ്ലൗസുകൾ, ഫെയ്‌സ് മാസ്കുകൾ, മറ്റ് മലിന വസ്തുക്കൾ എന്നിവ മറ്റ് ഗാർഹിക മാലിന്യങ്ങൾ ഉപയോഗിച്ച് നീക്കം ചെയ്യുന്നതിന് മുമ്പ് ഒരു കണ്ടെയ്നറിൽ ആക്കുക. ഈ വസ്തുക്കൾ കൈകാര്യം ചെയ്ത ഉടനെ നിങ്ങളുടെ കൈകൾ \("സോപ്പും വെള്ളവും അല്ലെങ്കിൽ ആൽക്കഹോൾ അടിസ്ഥാനമാക്കിയുള്ള ഹാൻഡ് സാനിറ്റൈസർ"\) ഉപയോഗിച്ച് വൃത്തിയാക്കുക. കൈകൾ വൃത്തി ഇല്ല എങ്കിൽ സോപ്പും വെള്ളവും മുൻഗണന നൽകണം.
+* ഏതെങ്കിലും അധിക ചോദ്യങ്ങൾ നിങ്ങളുടെ സംസ്ഥാനവുമായോ പ്രാദേശിക ആരോഗ്യ വകുപ്പുമായോ ആരോഗ്യ സംരക്ഷണ ദാതാവിനോടോ ചർച്ച ചെയ്യുക. നിങ്ങളുടെ പ്രാദേശിക ആരോഗ്യ വകുപ്പുമായി ബന്ധപ്പെടുമ്പോൾ ലഭ്യമായ സമയം പരിശോധിക്കുക.
 
 ഉറവിടം : [https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html\#precautions](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions)
 

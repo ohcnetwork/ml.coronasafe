@@ -1,40 +1,40 @@
 ---
 description: >-
-  COVID-19 കൂടുതലും മാരകമാണെന്ന് തെളിയിക്കുന്നു. സ്വീകരിക്കേണ്ട അധിക മുൻകരുതലുകൾ ഈ ഗൈഡ് വിശദീകരിക്കുന്നു.
+  വയോധികരിലും ആരോഗ്യ പ്രശ്നങ്ങൾ ഉള്ളവരിലും COVID 19 മാരകം ആണ്. ആയതിനാൽ അധികം ആയി സ്വീകരിക്കാൻ ഉള്ള മുൻ കരുതലുകൾ ഈ ഗൈഡ് വിശദീകരിക്കുന്നു
 ---
 
-# Old People and People with Medical Issues
+# വൃദ്ധരും മെഡിക്കൽ പ്രശ്നങ്ങളുള്ള ആളുകളും
 
-People above 70 years of age and people with medical issues either currently or previously are at the most risk from COVID-19. This data shows the elderly are at a much greater risk than young people.
+70 വയസ്സിന് മുകളിൽ ഉള്ളവർക്കും, നിലവിൽ അല്ലെങ്കിൽ മുൻപ് ആരോഗ്യ പ്രശ്നങ്ങൾ ഉള്ള ആളുകൾക്കും ആണ് COVID 19 അപകട സാധ്യതകൾ ഏറ്റവും കൂടുതൽ ഉള്ളത്. പ്രായമായവർക്ക് ചെറുപ്പക്കാരേക്കാൾ വലിയ അപകട സാധ്യതയുണ്ട് എന്ന് ഈ വിവരങ്ങൾ കാണിക്കുന്നു.
 
-| Age Group | Mortality Rate % |
+| പ്രായ വിഭാഗം | മരണനിരക്ക് % |
 | :--- | ---: |
 | 80 + | 14.8 % |
 | 70 - 79 | 8 % |
 | 50 - 59 | 1.3% |
 | 40 - | &lt; 0.5 % |
 
-With the available data there are no reported deaths of children under 10 years of age, and children seem to have a very low mortality rate from COVID-19.
+ലഭ്യമായ ഡാറ്റ ഉപയോഗിച്ച് 10 വയസ്സിന് താഴെയുള്ള കുട്ടികളുടെ മരണമൊന്നും റിപ്പോർട്ട് ചെയ്യപ്പെട്ടിട്ടില്ല, കൂടാതെ കുട്ടികൾക്ക് COVID-19 ൽ നിന്നുള്ള മരണനിരക്ക് വളരെ കുറവാണെന്ന് തോന്നുന്നു.
 
-The people with preexisting medical conditions tell a similar story. People with underlying medical conditions are at a greater risk than people without any predisposed medical condition. \([source](https://ourworldindata.org/coronavirus#case-fatality-rate-of-covid-19-by-preexisting-health-conditions)\)
+മുൻപ് ആരോഗ്യ പ്രശ്നങ്ങൾ ഉണ്ടായിരുന്നവരുടെ കാര്യം ഇത് തന്നെ ആണ്. ആരോഗ്യ പ്രശ്നങ്ങൾ ഉള്ളവർക്ക് അപകട സാധ്യതകൾ കൂടുതൽ ആണ് \([source](https://ourworldindata.org/coronavirus#case-fatality-rate-of-covid-19-by-preexisting-health-conditions)\)
 
-| Medical Condition | Mortality Rate % |
+| ആരോഗ്യ സ്ഥിതി | മരണനിരക്ക് % |
 | :--- | ---: |
-| Cardiovascular Disease | 10.5 % |
-| Diabetes | 7.3 % |
-| Chronic Respiratory Disease | 6.3 % |
-| Hypertension | 6.0 % |
-| Cancer | 5.6 % |
-| No Health Condition | 0.9 % |
+| ഹൃദയ സംബന്ധമായ അസുഖം | 10.5 % |
+| പ്രമേഹം | 7.3 % |
+| വിട്ടുമാറാത്ത ശ്വസന രോഗം | 6.3 % |
+| രക്താതിമർദ്ദം | 6.0 % |
+|അർബുദം | 5.6 % |
+| ആരോഗ്യസ്ഥിയിൽ പ്രശനം ഇല്ലാത്തവർ | 0.9 % |
 
-This all indicates that if you belong to any of the above said category you are at **High Risk** from COVID-19. You will need to take special precautions.
+ഇതെല്ലാം സൂചിപ്പിക്കുന്നത് നിങ്ങൾ മുകളിൽ പറഞ്ഞ ഏതെങ്കിലും വിഭാഗത്തിൽ പെട്ടയാളാണെങ്കിൽ നിങ്ങൾ COVID-19 ൽ നിന്നുള്ള **ഉയർന്ന അപകടസാധ്യതയിലാണെന്നാണ്**. നിങ്ങൾക്ക് പ്രത്യേക മുൻകരുതലുകൾ എടുക്കേണ്ടതുണ്ട്.
 
-## Extra Precautions for People at Higher Risk
+## ഉയർന്ന അപകടസാധ്യതയുള്ള ആളുകൾക്കായി അധിക മുൻകരുതലുകൾ
 
-The above said people in the high risk category should follow these extra precautions to the ones specified in the guide.
+മേൽ പറഞ്ഞ ഉയർന്ന റിസ്ക് വിഭാഗത്തിലുള്ള ആളുകൾ ഗൈഡിൽ വ്യക്തമാക്കിയ ഈ അധിക മുൻകരുതലുകൾ പാലിക്കണം.
 
 {% hint style="info" %}
-Work in Progress, refer to
+ജോലി പുരോഗതിയിലാണ്, റഫർ ചെയ്യുക 
 
 * [https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html)
 {% endhint %}

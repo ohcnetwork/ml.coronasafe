@@ -1,8 +1,7 @@
 ---
 description: >-
-  This page covers the Official Resources released by Governmental
-  Organisations.
+  സർക്കാർ ഓർഗനൈസേഷനുകൾ പുറത്തിറക്കിയ ഔദ്യോഗിക വിവരങ്ങൾ ഈ പേജ് ഉൾക്കൊള്ളുന്നു.
 ---
 
-# Official Resources
+# ഔദ്യോഗിക വിവരങ്ങൾ
 

@@ -2,9 +2,9 @@
 വിവരണം: COVID-19 ന്റെ വ്യാപനത്തിന് ആവശ്യമായ പ്രതിരോധ നടപടികൾ വിവരിക്കുന്നു
 ---
 
-# Precautions and Preventive Measures
+# മുൻകരുതലുകളും പ്രതിരോധ നടപടികളും
 
-Even though COVID-19 is a highly contagious disease, taking adequate precautions can help prevent you from being infected.
+COVID-19 വളരെ വലിയൊരു പകർച്ചവ്യാധിയാണെങ്കിലും, വേണ്ടത്ര മുൻകരുതലുകൾ എടുക്കുന്നത് നിങ്ങളെ അത് ബാധിക്കാതിരിക്കാൻ സഹായിക്കും.
 
 The virus spread through small droplets from the nose or mouth of the affected person, when the person sneezes or coughs. These droplets can travel more than 1 meter from the source and might land on objects and surfaces. Other people can catch the virus by touching the surface and then touching their eyes, mouth or nose. The virus can also be caught by inhaling these droplets if the distance between the affected person is less than one meter.
 

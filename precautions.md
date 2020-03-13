@@ -1,5 +1,5 @@
 ---
-description: Describes the necessary preventive measures to the spread of COVID-19
+വിവരണം: COVID-19 ന്റെ വ്യാപനത്തിന് ആവശ്യമായ പ്രതിരോധ നടപടികൾ വിവരിക്കുന്നു
 ---
 
 # Precautions and Preventive Measures

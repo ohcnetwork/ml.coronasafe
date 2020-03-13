@@ -21,8 +21,7 @@ description: >-
 
 * നിങ്ങൾക്ക് ഒരു മെഡിക്കൽ അപ്പോയിന്റ്മെന്റ് ഉണ്ടെങ്കിൽ, ആരോഗ്യസംരക്ഷണ ദാതാവിനെ വിളിച്ച് നിങ്ങൾക്ക് COVID-19 ഉണ്ടെന്നും അല്ലെങ്കിൽ COVID-19 ഉണ്ടോ എന്ന് സംശയം ഉണ്ടെന്നും അവരോട് പറയുക. ആരോഗ്യസംരക്ഷണ ദാതാവിന്റെ ഓഫീസിൽ നിന്നും മറ്റ് ആളുകളെ രോഗബാധിതരാകാതിരിക്കാനോ തടയാനോ കഴിയാത്തവിധം നടപടിയെടുക്കാൻ ഇത് സഹായിക്കും.
 
-## Wear a facemask if you are sick
-
+## നിങ്ങൾക്ക് അസുഖമുണ്ടെങ്കിൽ ഫെയ്‌സ്മാസ്ക് ധരിക്കുക
 * **If you are sick:** You should wear a facemask when you are around other people \(e.g., sharing a room or vehicle\) or pets and before you enter a healthcare provider’s office.
 * **If you are caring for others:** If the person who is sick is not able to wear a facemask \(for example, because it causes trouble breathing\), then people who live with the person who is sick should not stay in the same room with them, or they should wear a facemask if they enter a room with the person who is sick.
 

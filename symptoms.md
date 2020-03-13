@@ -1,5 +1,5 @@
 ---
-description: Describes the major symptoms of COVID-19.
+വിവരണം: COVID-19 ന്റെ പ്രധാന ലക്ഷണങ്ങൾ വിവരിക്കുന്നു.
 ---
 
 # Symptoms

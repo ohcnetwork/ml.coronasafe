@@ -1,7 +1,6 @@
 ---
-Description: >-
-  A crowd-sourced guide to staying safe in Coronavirus disease (COVID-19)
-  outbreak.
+Description: >- 
+കൊറോണ വൈറസ് രോഗം (COVID-19) പൊട്ടിപ്പുറപ്പെടുന്നതിൽ സുരക്ഷിതമായി തുടരാനുള്ള വഴികാട്ടി.
 ---
 
 # Corona Safe

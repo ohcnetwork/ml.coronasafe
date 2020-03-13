@@ -1,27 +1,25 @@
 ---
 description: >-
-  If you are sick with COVID-19 or suspect you are infected with the virus that
-  causes COVID-19, follow the steps below to help prevent the disease from
-  spreading to people in your home and community.
+നിങ്ങൾ COVID 19 രോഗ ബാധിതൻ ആണോ അല്ലെങ്കിൽ രോഗ ബാധിതൻ ആണ് എന്ന് സംശയിക്കുന്നുണ്ട് എങ്കിൽ മറ്റുള്ളവർക്ക് പകരുന്നത് ഒഴിവാക്കാൻ താഴെ പറയുന്ന നിർദ്ദേശങ്ങൾ സ്വീകരിക്കുക.
 ---
 
-# I am Infected
+# ഞാൻ രോഗബാധിതനാണ്
 
 ## Stay home except to get medical care
 
-* **Stay home:** People who are mildly ill with COVID-19 are able to isolate at home during their illness. You should restrict activities outside your home, except for getting medical care.
-* **Avoid public areas:** Do not go to work, school, or public areas.
-* **Avoid public transportation:** Avoid using public transportation, ride-sharing, or taxis.
+* **വീട്ടിൽ തന്നെ തുടരുക:** People who are mildly ill with COVID-19 are able to isolate at home during their illness. You should restrict activities outside your home, except for getting medical care.
+*  **പൊതുസ്ഥലങ്ങളിലേക് സഞ്ചരിക്കുന്നത് ഒഴിവാക്കുക:** ജോലിസ്ഥലത്തേക്കോ സ്കൂളിലേക്കോ പൊതു സ്ഥലങ്ങളിലേക്കോ പോകരുത്.
+* **പൊതു ഗതാഗതം ഒഴിവാക്കുക:** പൊതു ഗതാഗതം, സവാരി പങ്കിടൽ അല്ലെങ്കിൽ ടാക്സികൾ ഉപയോഗിക്കുന്നത് ഒഴിവാക്കുക.
 
-## Separate yourself from other people and animals in your home
+## നിങ്ങളുടെ വീട്ടിലെ മറ്റ് ആളുകളിൽ നിന്നും മൃഗങ്ങളിൽ നിന്നും സ്വയം വേർപെട്ട് നിൽക്കുക
 
-* **Stay away from others:** As much as possible, you should stay in a specific room and away from other people in your home. Also, you should use a separate bathroom, if available.
-* **Limit contact with pets & animals:** You should restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the virus.
+* **മറ്റുള്ളവരിൽ നിന്ന് അകന്നുനിൽക്കുക:** കഴിയുന്നിടത്തോളം, നിങ്ങൾ ഒരു നിർദ്ദിഷ്ട മുറിയിൽ താമസിക്കുകയും നിങ്ങളുടെ വീട്ടിലെ മറ്റ് ആളുകളിൽ നിന്ന് അകന്നുനിൽക്കുകയും വേണം. കൂടാതെ, ലഭ്യമെങ്കിൽ നിങ്ങൾ ഒരു പ്രത്യേക കുളിമുറി ഉപയോഗിക്കണം.
+* **വളർത്തുമൃഗങ്ങളുമായുള്ള സമ്പർക്കം പരിമിതപ്പെടുത്തുക** You should restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the virus.
 * When possible, have another member of your household care for your animals while you are sick. If you are sick with COVID-19, avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food. If you must care for your pet or be around animals while you are sick, wash your hands before and after you interact with pets and wear a facemask.
 
-## Call ahead before visiting your doctor
+## നിങ്ങൾ ഡോക്ടറെ സന്ദർശിക്കുന്നതിന് മുമ്പ് വിളിച്ച് കാര്യങ്ങൾ അവതരിപ്പിക്കുക
 
-* If you have a medical appointment, call the healthcare provider and tell them that you have or may have COVID-19. This will help the healthcare provider’s office take steps to keep other people from getting infected or exposed.
+* നിങ്ങൾക്ക് ഒരു മെഡിക്കൽ അപ്പോയിന്റ്മെന്റ് ഉണ്ടെങ്കിൽ, ആരോഗ്യസംരക്ഷണ ദാതാവിനെ വിളിച്ച് നിങ്ങൾക്ക് COVID-19 ഉണ്ടെന്നും അല്ലെങ്കിൽ COVID-19 ഉണ്ടോ എന്ന് സംശയം ഉണ്ടെന്നും അവരോട് പറയുക. ആരോഗ്യസംരക്ഷണ ദാതാവിന്റെ ഓഫീസിൽ നിന്നും മറ്റ് ആളുകളെ രോഗബാധിതരാകാതിരിക്കാനോ തടയാനോ കഴിയാത്തവിധം നടപടിയെടുക്കാൻ ഇത് സഹായിക്കും.
 
 ## Wear a facemask if you are sick
 

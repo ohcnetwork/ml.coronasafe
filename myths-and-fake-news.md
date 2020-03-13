@@ -1,30 +1,30 @@
 ---
-description: Lists the common myths about COVID-19
+description: COVID-19 നെക്കുറിച്ചുള്ള പൊതുവായ തെറ്റിദ്ധാരണകൾ പട്ടികപ്പെടുത്തുന്നു
 ---
 
-# Myths and Fake News
+# തെറ്റിദ്ധാരണകളും വ്യാജ വാർത്തകളും
 
-There are a lot of myths and fake news that are both dangerous to yourselves and others circulating on Social Media. Never share any information that you have not verified yourself or that isn't from official sources, it will do more harm than good.
+ഒരുപാട് തെറ്റിദ്ധാരണകളും വ്യാജ വാർത്തകളും സാമൂഹിക മാധ്യമങ്ങളിൽ പ്രചരിപ്പിക്കുന്നത് നിങ്ങൾക്കും മറ്റുള്ളവർക്കും അപകടം ആണ്. പ്രത്യാഘാതങ്ങൾ ഉണ്ടാക്കുന്നത് ആണ്. നിങ്ങൾ സ്വയം പരിശോധിച്ചിട്ടില്ലാത്ത അല്ലെങ്കിൽ ഔദ്യോഗിക ഉറവിടങ്ങളിൽ നിന്നുള്ളതല്ലാത്ത ഒരു വിവരവും ഒരിക്കലും പങ്കിടരുത്, ഇത് നല്ലതിനേക്കാൾ കൂടുതൽ ദോഷം ചെയ്യും.
 
-Here we have compiled a list of common myths and fake news about COVID-19. We have also linked the source of the article which proves it.
+COVID 19 രോഗത്തെ കുറിച്ച് ഉള്ള തെറ്റിദ്ധാരണകളുടെയും, വ്യാജ വാർത്തകളുടെയും ഒരു പട്ടിക ഞങ്ങൾ സമാഹരിച്ചിരിക്കുന്നു. അത് തെളിയിക്കുന്ന രേഖകകളും കൂടെ ചേർക്കുന്നു
 
 {% hint style="info" %}
-Work in Progress, in the meantime refer : [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
+ജോലി പുരോഗതിയിലാണ്, അതിനിടയിൽ റഫർ ചെയ്യുക : [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
 {% endhint %}
 
-## Does Drinking water and keeping your throat moist kills COVID-19 ?
+## വെള്ളം കുടിക്കുകയും തൊണ്ടയിലെ ഈർപ്പം നിലനിർത്തുകയും ചെയ്യുന്നത് COVID-19 നെ കൊല്ലുന്നോ ?
 
-**No**, There has been messages circulating on Social media stating that drinking \(preferably hot\) water and keeping your throat moist can help prevent an infection. The messages also cite different health organizations. This is a myth.
+**ഇല്ല**, \(ചൂടുവെള്ളം \) വെള്ളം കുടിക്കുന്നതും തൊണ്ടയിലെ ഈർപ്പവും നിലനിർത്തുന്നത് അണുബാധ തടയാൻ സഹായിക്കുമെന്ന് പ്രസ്താവിക്കുന്ന സന്ദേശങ്ങൾ സോഷ്യൽ മീഡിയയിൽ പ്രചരിക്കുന്നുണ്ട്. വിവിധ ആരോഗ്യ സംഘടനകളിലും ഈ സന്ദേശങ്ങൾ ഉദ്ധരിക്കുന്നു. ഇതൊരു മിഥ്യയാണ്.
 
 {% hint style="warning" %}
-There _\*\*_is no real evidence suggesting that drinking \(hot or cold\) water can help prevent a Corona Virus Infection.
+കൊറോണ വൈറസ് അണുബാധ തടയാൻ (ചൂടുള്ളതോ തണുത്തതോ ആയ) വെള്ളം സഹായിക്കുമെന്നതിന് യഥാർത്ഥ തെളിവുകളൊന്നുമില്ല.
 {% endhint %}
 
-Source: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
+ഉറവിടം: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
 
-## Does COVID-19 spread thorough Air ?
+## COVID-19 വായുവിലൂടെ വ്യാപിക്കുന്നുണ്ടോ? ?
 
-**No,** COVID-19 is not airborne, meaning it does not spread through Air. It spreads through contact with droplets containing the virus from the nose and mouths of people who are infected.
+**ഇല്ല,** COVID-19 വായുവിലൂടെ സഞ്ചരിക്കുന്നതല്ല, അതായത് അത് വായുവിലൂടെ വ്യാപിക്കുന്നില്ല. രോഗം ബാധിച്ച ആളുകളുടെ മൂക്കിൽ നിന്നും വായിൽ നിന്നും വൈറസ് അടങ്ങിയ തുള്ളികളുമായുള്ള സമ്പർക്കത്തിലൂടെ ഇത് പടരുന്നു.
 
 {% hint style="info" %}
 Even though the virus is not airborne there is still considerable risk as the virus is highly contagious. Follow the instructions given below to take necessary precautions.
@@ -32,5 +32,5 @@ Even though the virus is not airborne there is still considerable risk as the vi
 
 {% page-ref page="precautions.md" %}
 
-Source : [https://www.who.int/news-room/q-a-detail/q-a-coronaviruses\#](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses#)
+ഉറവിടം : [https://www.who.int/news-room/q-a-detail/q-a-coronaviruses\#](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses#)
 

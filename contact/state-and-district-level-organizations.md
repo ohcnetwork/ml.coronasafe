@@ -1,23 +1,22 @@
 ---
 description: >-
-  Gives the Contact Details of State Level Organizations handling the COVID-19
-  Crisis
+  COVID-19 പ്രതിസന്ധി കൈകാര്യം ചെയ്യുന്ന സംസ്ഥാനതല ഓർഗനൈസേഷനുകളുടെ കോൺടാക്റ്റ് വിശദാംശങ്ങൾ നൽകുന്നു
 ---
 
-# State and District Level Organizations
+# സംസ്ഥാന, ജില്ലാതല സംഘടനകൾ
 
-COVID-19 is kept in check by the timely and efficient intervention from the Local and State Government Organizations.
+പ്രാദേശിക, സംസ്ഥാന സർക്കാർ സംഘടനകളുടെ സമയോചിതവും കാര്യക്ഷമവുമായ ഇടപെടലാണ് COVID-19 പരിശോധിക്കുന്നത്.
 
-## Directorate of Health Services Kerala
+## കേരള ആരോഗ്യ സേവന ഡയറക്ടറേറ്റ്
 
 {% embed url="http://dhs.kerala.gov.in/" caption="" %}
 
-## Control Room Contact Information
+## കൺട്രോൾ റൂമുകളുമായി ബന്ധപ്പെടാനുള്ള വിവരങ്ങൾ
 
-Given below are the publicly available [contact details](http://dhs.kerala.gov.in/pdf2020/cont_09032020.pdf) of the organizations at the forefront of containing the virus.
+താഴെ കൊടുത്തിരിക്കുന്നത് കോറോണ വൈറസ് ആയി ബന്ധപ്പെട്ട കൺട്രോൾ റൂമുകളുടെ [വിവരങ്ങൾ](http://dhs.kerala.gov.in/pdf2020/cont_09032020.pdf) ആണ്
 
-| Authority | Phone | Phone | Phone |
+| അതോറിറ്റി | ഫോൺ | ഫോൺ | ഫോൺ |
 | :--- | ---: | ---: | ---: |
-| **STATE** | 0471-2309250 | 0471-2309251 | 0471-2309252 |
-| DISHA | 1056 | 0471-2552056 |  |
+| **സംസ്ഥാനം** | 0471-2309250 | 0471-2309251 | 0471-2309252 |
+| ദിഷ | 1056 | 0471-2552056 |  |
 

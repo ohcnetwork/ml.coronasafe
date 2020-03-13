@@ -1,30 +1,30 @@
 # എനിക്കറിയാവുന്ന ഒരാൾക്ക് രോഗം ബാധിച്ചിരിക്കുന്നു
 
-Household members, intimate partners, and caregivers in a nonhealthcare setting may have close contact with a person with symptomatic, laboratory-confirmed COVID-19 or a person under investigation. Close contacts should monitor their health; they should call their healthcare provider right away if they develop symptoms suggestive of COVID-19 \(e.g., fever, cough, shortness of breath\)
+വീട്ടിൽ ഉള്ളവർ, ജീവനക്കാർ, അടുപ്പമുള്ള ആളുകൾ, പരിചരണം നൽകുന്നവർ എന്നിവർക്ക് രോഗ ലക്ഷണങ്ങളുള്ള, ലബോറട്ടറി സ്ഥിരീകരിച്ച COVID-19 അല്ലെങ്കിൽ അന്വേഷണത്തിലുള്ള ഒരു വ്യക്തിയുമായി അടുത്ത ബന്ധം ഉണ്ടായിരിക്കാം. അടുത്ത കോൺ‌ടാക്റ്റുകൾ‌ അവരുടെ ആരോഗ്യം നിരീക്ഷിക്കണം. ഉദാഹരണത്തിന് പനി, ചുമ, ശ്വാസ തടസ്സം തുടങ്ങിയ ലക്ഷണങ്ങൾ പ്രകടിപ്പിച്ചാൽ അവർ ഉടൻ തന്നെ അവരുടെ ആരോഗ്യ സംരക്ഷണ ദാതാവിനെ വിളിക്കണം
 
-## Close contacts should also follow these recommendations:
+## രോഗിയുമായി അടുത്ത് ഇടപെഴകുന്നവർ ഈ ശുപാർശകൾ പാലിക്കണം:
 
-* Make sure that you understand and can help the patient follow their healthcare provider’s instructions for medication\(s\) and care. You should help the patient with basic needs in the home and provide support for getting groceries, prescriptions, and other personal needs.
-* Monitor the patient’s symptoms. If the patient is getting sicker, call his or her healthcare provider and tell them that the patient has laboratory-confirmed COVID-19. This will help the healthcare provider’s office take steps to keep other people in the office or waiting room from getting infected. Ask the healthcare provider to call the local or state health department for additional guidance. If the patient has a medical emergency and you need to call 911, notify the dispatch personnel that the patient has, or is being evaluated for COVID-19.
-* Household members should stay in another room or be separated from the patient as much as possible. Household members should use a separate bedroom and bathroom, if available.
-* Prohibit visitors who do not have an essential need to be in the home.
-* Household members should care for any pets in the home. Do not handle pets or other animals while sick. For more information, see COVID-19 and Animals.
-* Make sure that shared spaces in the home have good air flow, such as by an air conditioner or an opened window, weather permitting.
-* Perform hand hygiene frequently. Wash your hands often with soap and water for at least 20 seconds or use an alcohol-based hand sanitizer that contains 60 to 95% alcohol, covering all surfaces of your hands and rubbing them together until they feel dry. Soap and water should be used preferentially if hands are visibly dirty.
-* Avoid touching your eyes, nose, and mouth with unwashed hands.
-* The patient should wear a facemask when you are around other people. If the patient is not able to wear a facemask \(for example, because it causes trouble breathing\), you, as the caregiver, should wear a mask when you are in the same room as the patient.
-* Wear a disposable facemask and gloves when you touch or have contact with the patient’s blood, stool, or body fluids, such as saliva, sputum, nasal mucus, vomit, urine.
-  * Throw out disposable facemasks and gloves after using them. Do not reuse.
-  * When removing personal protective equipment, first remove and dispose of gloves. Then, immediately clean your hands with soap and water or alcohol-based hand sanitizer. Next, remove and dispose of facemask, and immediately clean your hands again with soap and water or alcohol-based hand sanitizer.
-* Avoid sharing household items with the patient. You should not share dishes, drinking glasses, cups, eating utensils, towels, bedding, or other items. After the patient uses these items, you should wash them thoroughly \(see below “Wash laundry thoroughly”\).
-* Clean all “high-touch” surfaces, such as counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, and bedside tables, every day. Also, clean any surfaces that may have blood, stool, or body fluids on them.
-  * Use a household cleaning spray or wipe, according to the label instructions. Labels contain instructions for safe and effective use of the cleaning product including precautions you should take when applying the product, such as wearing gloves and making sure you have good ventilation during use of the product.
-* Wash laundry thoroughly.
-  * Immediately remove and wash clothes or bedding that have blood, stool, or body fluids on them.
-  * Wear disposable gloves while handling soiled items and keep soiled items away from your body. Clean your hands \(with soap and water or an alcohol-based hand sanitizer\) immediately after removing your gloves.
-  * Read and follow directions on labels of laundry or clothing items and detergent. In general, using a normal laundry detergent according to washing machine instructions and dry thoroughly using the warmest temperatures recommended on the clothing label.
+* നിങ്ങൾ കാര്യങ്ങൾ മനസ്സിലാക്കുന്നു എന്നും അവരുടെ ആരോഗ്യ സംരക്ഷണ ദാതാവിന്റെ മരുന്നുകൾ, പരിചരണം എന്നിവക്കായി നിർദ്ദേശങ്ങൾ പാലിക്കാൻ രോഗിയെ സഹായിക്കുമെന്നും ഉറപ്പാക്കുക. വീട്ടിലെ അടിസ്ഥാന ആവശ്യങ്ങൾക്കായി നിങ്ങൾ രോഗിയെ സഹായിക്കുകയും പലചരക്ക് സാധനങ്ങൾ, കുറിപ്പടികൾ, മറ്റ് വ്യക്തിഗത ആവശ്യങ്ങൾ എന്നിവ ലഭിക്കുന്നതിന് പിന്തുണ നൽകുകയും ചെയ്യണം.
+* രോഗിയുടെ ലക്ഷണങ്ങൾ നിരീക്ഷിക്കുക. രോഗിയുടെ ആരോഗ്യ സംരക്ഷണ ദാതാവിനെ വിളിച്ച് രോഗിക്ക് ലബോറട്ടറി സ്ഥിരീകരിച്ച COVID 19 ഉണ്ട് എന്ന് അവരോട് പറയുക. മറ്റ് ആളുകളെ ഓഫീസിലോ വെയിറ്റിംഗ് റൂമിലോ രോഗ ബാധിതരാകാതിരിക്കാൻ ആരോഗ്യസംരക്ഷണ ദാതാവിന്റെ ഓഫീസ് നടപടിയെടുക്കാൻ ഇത് സഹായിക്കും. കൂടുതൽ മാർഗ്ഗ നിർദ്ദേശത്തിനായി പ്രാദേശിക അല്ലെങ്കിൽ സംസ്ഥാന ആരോഗ്യ വകുപ്പിനെ വിളിക്കാൻ ആരോഗ്യ സംരക്ഷണ ദാതാവിനോട് ആവശ്യപ്പെടുക. രോഗിക്ക് ഒരു മെഡിക്കൽ എമർജൻസി ഉണ്ടെങ്കിൽ നിങ്ങൾ 911 എന്ന നമ്പറിൽ വിളിക്കുക എന്നിട്ട് ഡിസ്പാച്ച് ഉദ്യോഗസ്ഥരെ രോഗ വിവരം അല്ല എങ്കിൽ COVID 19 പരിശോധനയിൽ ആണ് എന്ന കാര്യം അറിയിക്കുക
+* വീട്ടിലെ അംഗങ്ങൾ മറ്റൊരു മുറിയിൽ താമസിക്കണം അല്ലെങ്കിൽ കഴിയുന്നത്ര രോഗിയിൽ നിന്ന് വേർപെട്ടുനിൽക്കുക. കുടുംബാംഗങ്ങൾ, ലഭ്യമെങ്കിൽ പ്രത്യേക കിടപ്പുമുറിയും കുളിമുറിയും ഉപയോഗിക്കണം.
+* ആവശ്യം ഇല്ലാത്ത സന്ദർശകരെ ഒഴിവാക്കുക.
+* വീട്ടിലെ ഏതെങ്കിലും വളർത്തുമൃഗങ്ങൾ ഉണ്ടെങ്കിൽ അവയെ വീട്ടുകാർ പരിപാലിക്കണം. രോഗിയായിരിക്കുമ്പോൾ വളർത്തുമൃഗങ്ങളോ മറ്റ് മൃഗങ്ങളോ കൈകാര്യം ചെയ്യരുത്. കൂടുതൽ വിവരങ്ങൾക്ക്, COVID-19ഉം മൃഗങ്ങളും എന്നിവ കാണുക.
+* വീട്ടിലെ പങ്കിട്ട ഇടങ്ങൾക്ക് എയർകണ്ടീഷണർ അല്ലെങ്കിൽ തുറന്ന വിൻഡോ, കാലാവസ്ഥ അനുവദിക്കുന്നതുപോലുള്ള നല്ല വായുപ്രവാഹമുണ്ടെന്ന് ഉറപ്പാക്കുക.
+* കൈകൾ പതിവായി വൃത്തി ആക്കുക. കുറഞ്ഞത് 20 സെക്കൻഡ്സ് നേരം നിങ്ങളുടെ കൈകൾ സോപ്പും വെള്ളവും ഉപയോഗിച്ച് കഴുകുക അല്ലെങ്കിൽ 60 മുതൽ 95 % വരെ ആൽക്കഹോൾ അടങ്ങിയിരിക്കുന്ന ഹാൻഡ് സാനിറ്റൈസർ ഉപയോഗിക്കുക. കൈകൾ വൃത്തി അല്ല എങ്കിൽ സോപ്പും വെള്ളവും മുൻഗണന നൽകണം.
+* കഴുകാത്ത കൈകളാൽ നിങ്ങളുടെ കണ്ണുകൾ, മൂക്ക്, വായ എന്നിവ തൊടുന്നത് ഒഴിവാക്കുക.
+* നിങ്ങൾ മറ്റ് ആളുകൾക്ക് ചുറ്റുമുള്ളപ്പോൾ രോഗി ഫെയ്‌സ്മാസ്ക് ധരിക്കണം. രോഗം ബാധിച്ച വ്യക്തിക്ക് ഫേസ് മാസ്ക് ധരിക്കാൻ സാധിക്കുന്നില്ല എങ്കിൽ ( ഉദാഹരണത്തിന് ശ്വാസ തടസ്സം ഉണ്ടാകുന്നുണ്ട് എങ്കിൽ ) രോഗിയുടെ കൂടെ കഴിയുന്ന വ്യക്‌തികൾ രോഗിയെ സന്ദർശിക്കുന്ന അവസരങ്ങളിൽ നിർബന്ധം ആയും മാസ്ക് ധരിക്കണം. ഒരിക്കലും മാസ്ക് ഇല്ലാതെ രോഗിയുടെ മുറിയിൽ നിൽക്കരുത്
+* രോഗിയുടെ രക്തം, മലം, അല്ലെങ്കിൽ ശരീര ദ്രാവകങ്ങളായ ഉമിനീർ, സ്പുതം, മൂക്കൊലിപ്പ്, ഛർദ്ദി, മൂത്രം എന്നിവയുമായി നിങ്ങൾ സ്പർശിക്കുമ്പോഴോ സമ്പർക്കം പുലർത്തുമ്പോഴോ ഒരു ഡിസ്പോസിബിൾ ഫെയ്‌സ്മാസ്കും കയ്യുറകളും ധരിക്കുക.
+  * ഡിസ്പോസിബിൾ ഫെയ്‌സ്മാസ്കുകളും കയ്യുറകളും ഉപയോഗിച്ചതിന് ശേഷം കളയുക. വീണ്ടും ഉപയോഗിക്കരുത്..
+  * വ്യക്തിഗത സംരക്ഷണ ഉപകരണങ്ങൾ നീക്കംചെയ്യുമ്പോൾ, ആദ്യം കയ്യുറകൾ നീക്കം ചെയ്യുക. സോപ്പും വെള്ളവും അല്ലെങ്കിൽ ആൽക്കഹോൾ അടിസ്ഥാനമാക്കിയുള്ള ഹാൻഡ് സാനിറ്റൈസർ ഉപയോഗിച്ച് നിങ്ങളുടെ കൈകൾ ഉടൻ വൃത്തിയാക്കുക. അടുത്തതായി, ഫെയ്‌സ്മാസ്ക് നീക്കംചെയ്‌ത് നീക്കംചെയ്യുക, സോപ്പും വെള്ളവും അല്ലെങ്കിൽ ആൽക്കഹോൾ അടിസ്ഥാനമാക്കിയുള്ള ഹാൻഡ് സാനിറ്റൈസർ ഉപയോഗിച്ച് നിങ്ങളുടെ കൈകൾ വീണ്ടും വൃത്തിയാക്കുക.
+* വീട്ടുപകരണങ്ങൾ രോഗിയുമായി പങ്കിടുന്നത് ഒഴിവാക്കുക. നിങ്ങൾ വിഭവങ്ങൾ, ഗ്ലാസുകൾ, പാനപാത്രങ്ങൾ, ഭക്ഷണ പാത്രങ്ങൾ, തൂവാലകൾ, കട്ടിലുകൾ അല്ലെങ്കിൽ മറ്റ് ഇനങ്ങൾ എന്നിവ പങ്കിടരുത്. രോഗി ഈ ഇനങ്ങൾ ഉപയോഗിച്ച ശേഷം, നിങ്ങൾ അവയെ നന്നായി കഴുകണം \(താഴെ നോക്കുക“അലക്കൽ നന്നായി കഴുകുക”\).
+* കൗണ്ടറുകൾ‌, ടാബ്‌ലെറ്റുകൾ‌, ഡോർ‌ക്നോബുകൾ‌, ബാത്ത്‌റൂം ഫർണിച്ചറുകൾ‌, ടോയ്‌ലറ്റുകൾ‌, ഫോണുകൾ‌, കീബോർ‌ഡുകൾ‌, ടാബ്‌ലെറ്റുകൾ‌, ബെഡ്‌സൈഡ് ടേബിളുകൾ‌ എന്നിവ പോലുള്ള എല്ലാ “ഹൈ-ടച്ച്” ഉപരിതലങ്ങളും എല്ലാ ദിവസവും വൃത്തിയാക്കുക. കൂടാതെ, രക്തം, മലം അല്ലെങ്കിൽ ശരീര ദ്രാവകങ്ങൾ എന്നിവയുള്ള ഏതെങ്കിലും ഉപരിതലങ്ങൾ വൃത്തിയാക്കുക.
+  * ലേബൽ നിർദ്ദേശങ്ങൾ അനുസരിച്ച് ഒരു ഗാർഹിക ക്ലീനിംഗ് സ്പ്രേ ഉപയോഗിച്ച് വൃത്തി ആക്കുക. കയ്യുറകൾ ധരിക്കുക, ഉൽപ്പന്നത്തിന്റെ ഉപയോഗ സമയത്ത് നിങ്ങൾക്ക് നല്ല വായു സഞ്ചാരം ഉണ്ട് എന്ന് ഉറപ്പാക്കുക എന്നിങ്ങനെയുള്ള മുൻ കരുതലുകൾ ഉൾപ്പെടെ ക്ലീനിംഗ് ഉൽപ്പന്നത്തിന്റെ സുരക്ഷിതവും ഫലപ്രദവുമായ ഉപയോഗത്തിനുള്ള നിർദ്ദേശങ്ങൾ ലേബലുകളിൽ അടങ്ങിയിരിക്കുന്നു.
+* അലക്കൽ നന്നായി കഴുകുക.
+  * രക്തം, മലം, ശരീര ദ്രാവകങ്ങൾ എന്നിവയുള്ള വസ്ത്രങ്ങളോ കട്ടിലുകളോ ഉടനടി നീക്കം ചെയ്ത് കഴുകുക.
+  * മലിനമായ വസ്തുക്കൾ കൈകാര്യം ചെയ്യുമ്പോൾ ഡിസ്പോസിബിൾ ഗ്ലൗസുകൾ ധരിക്കുക, മലിനമായ വസ്തുക്കൾ നിങ്ങളുടെ ശരീരത്തിൽ നിന്ന് അകറ്റി നിർത്തുക. നിങ്ങളുടെ കയ്യുറകൾ നീക്കം ചെയ്ത ഉടനെ നിങ്ങളുടെ കൈകൾ \("സോപ്പും വെള്ളവും അല്ലെങ്കിൽ ആൽക്കഹോൾ അടിസ്ഥാനമാക്കിയുള്ള ഹാൻഡ് സാനിറ്റൈസർ"\) ഉപയോഗിച്ച് വൃത്തിയാക്കുക.
+  * സോപ്പ്, ഡിറ്റർജന്റുകൾ എന്നിവയുടെ ലേബലുകളിലെ നിർദ്ദേശങ്ങൾ വായിക്കുക, പിന്തുടരുക. പൊതുവെ വാഷിംഗ് മെഷീൻ നിർദ്ദേശങ്ങൾക്കനുസരിച്ച് ഒരു സാധാരണ അലക്കുന്ന സോപ്പ് ഉപയോഗിച്ച് വസ്ത്ര ലേബലിൽ ശുപാർശ ചെയ്യുന്ന ചൂടുള്ള താപനില ഉപയോഗിച്ച് നന്നായി വരണ്ടതാക്കുക.
 * Place all used disposable gloves, facemasks, and other contaminated items in a lined container before disposing of them with other household waste. Clean your hands \(with soap and water or an alcohol-based hand sanitizer\) immediately after handling these items. Soap and water should be used preferentially if hands are visibly dirty.
 * Discuss any additional questions with your state or local health department or healthcare provider. Check available hours when contacting your local health department.
 
-Source : [https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html\#precautions](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions)
+ഉറവിടം : [https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html\#precautions](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions)
 

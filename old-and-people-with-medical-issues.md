@@ -1,7 +1,6 @@
 ---
 description: >-
-  COVID-19 proves fatal mostly in old and people with underlying medical issues
-  (both present and past). This guide outlines extra precautions to be taken.
+  COVID-19 കൂടുതലും മാരകമാണെന്ന് തെളിയിക്കുന്നു. സ്വീകരിക്കേണ്ട അധിക മുൻകരുതലുകൾ ഈ ഗൈഡ് വിശദീകരിക്കുന്നു.
 ---
 
 # Old People and People with Medical Issues

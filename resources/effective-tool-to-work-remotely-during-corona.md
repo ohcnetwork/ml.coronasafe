@@ -1,2 +1,2 @@
-# Effective tool to work remotely during Corona
+# കൊറോണ സമയത്ത് വിദൂരമായി പ്രവർത്തിക്കാനുള്ള ഫലപ്രദമായ ഉപകരണം
 

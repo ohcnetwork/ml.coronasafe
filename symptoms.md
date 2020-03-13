@@ -6,7 +6,7 @@
 
 പനി, ക്ഷീണം, വരണ്ട ചുമ തുടങ്ങിയവ ആണ് സാധാരണ ആയി കാണുന്ന COVID 19 രോഗത്തിന്റെ ലക്ഷണങ്ങൾ. അവ തുടക്കത്തിൽ വളരെ സാധാരണം ആയിരിക്കും. [02 - 14](https://www.cdc.gov/coronavirus/2019-ncov/about/symptoms.html) ദിവസങ്ങളിൽ പ്രത്യക്ഷപ്പെടും. രോഗം ബാധിച്ച് 5 ദിവസങ്ങൾക്ക് ശേഷം ശരാശരി ലക്ഷണങ്ങൾ കാണിക്കുന്നു.
 
-ചില ലക്ഷണങ്ങൾ മറ്റുള്ളവയേക്കാൾ കുറവാണ്. The major symptoms of COVID-19 based on how [common](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19) it appears in the reported cases are
+ചില ലക്ഷണങ്ങൾ മറ്റുള്ളവയേക്കാൾ കുറവാണ്. COVID 19 രോഗത്തിന്റെ [പ്രധാന](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19) ലക്ഷണങ്ങൾ ആയി റിപ്പോർട്ട്‌ചെയ്യപ്പെട്ട കേസുകളിൽ നിന്നും മനസ്സിലാക്കാൻ സാധിക്കുന്നത്:-
 
 * പനി
 * വരണ്ട ചുമ

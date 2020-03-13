@@ -6,40 +6,38 @@
 
 COVID-19 വളരെ വലിയൊരു പകർച്ചവ്യാധിയാണെങ്കിലും, വേണ്ടത്ര മുൻകരുതലുകൾ എടുക്കുന്നത് നിങ്ങളെ അത് ബാധിക്കാതിരിക്കാൻ സഹായിക്കും.
 
-The virus spread through small droplets from the nose or mouth of the affected person, when the person sneezes or coughs. These droplets can travel more than 1 meter from the source and might land on objects and surfaces. Other people can catch the virus by touching the surface and then touching their eyes, mouth or nose. The virus can also be caught by inhaling these droplets if the distance between the affected person is less than one meter.
+വൈറസ് ബാധിച്ച വ്യക്തി തുമ്മുകയോ ചുമക്കുകയോ ചെയ്യുമ്പോൾ വൈറസ് ചെറിയ കണികകൾ ആയി മൂക്കിൽ നിന്നും വായിൽ നിന്നും പകരും. ഒരു മീറ്റർ കൂടുതൽ സഞ്ചരിക്കുന്ന വൈറസ് കണികകൾ ഒരു മീറ്റർ ചുറ്റളവിൽ ഉള്ള വസ്തുക്കളിലോ വ്യക്തികളിലോ എത്തും. ഈ വസ്തുക്കളിൽ സ്പർശിക്കുന്ന വ്യക്തികൾ അവരുടെ കണ്ണുകളിലോ, മൂക്കിലോ, വായിലോ തൊടുക ആണ് എങ്കിൽ വൈറസ് ബാധിക്കും. ഒരു മീറ്റർ ദൂരത്തിൽ ശ്വാസത്തിലൂടെ വൈറസ് ബാധിക്കും
 
-## Preventive Measures
+## പ്രതിരോധ നടപടികൾ
 
-There is no data showing that the virus can be transmitted through air. Hence, follow these steps to protect yourselves and the ones around you.
+വൈറസ് വായുവിലൂടെ പകരാൻ കഴിയുമെന്ന് കാണിക്കുന്ന വിവരങ്ങളൊന്നുമില്ല. അതിനാൽ, നിങ്ങളെയും നിങ്ങളുടെ ചുറ്റുമുള്ളവരെയും സംരക്ഷിക്കുന്നതിന് ഈ ഘട്ടങ്ങൾ പാലിക്കുക.
 
 {% hint style="danger" %}
-If you are above 60+ years of age or have any existing or past medical condition such as Heart diseases, Diabetes, Respiratory Diseases, Hypertension or any serious illness, you will have to take special precautions here.
+നിങ്ങൾക്ക് 60 വയസ്സിന് മുകളിലുള്ളവരാണെങ്കിൽ അല്ലെങ്കിൽ ഹൃദ്രോഗങ്ങൾ, പ്രമേഹം, ശ്വാസകോശ സംബന്ധമായ രോഗങ്ങൾ, രക്താതിമർദ്ദം അല്ലെങ്കിൽ ഏതെങ്കിലും ഗുരുതരമായ രോഗം പോലുള്ള നിലവിലുള്ളതോ പഴയതോ ആയ ഏതെങ്കിലും മെഡിക്കൽ അവസ്ഥ ഉണ്ടെങ്കിൽ, നിങ്ങൾ ഇവിടെ പ്രത്യേക മുൻകരുതലുകൾ എടുക്കേണ്ടിവരും.
 {% endhint %}
 
 {% page-ref page="old-and-people-with-medical-issues.md" %}
 
-### Washing your hands frequently
+### ഇടയ്ക്കിടെ കൈ കഴുകുക
+പ്രധാനമായും നിങ്ങളുടെ കൈകളിലൂടെയാണ് പ്രക്ഷേപണം സംഭവിക്കുന്നത് എന്നതിനാൽ, നിങ്ങൾ അവ പതിവായി നന്നായി കഴുകണം. ലഭ്യമാകുമ്പോൾ സോപ്പും വെള്ളവും ഉപയോഗിക്കാൻ ശുപാർശ ചെയ്യുന്നു, അല്ലാത്തപക്ഷം അണുക്കളെ ഇല്ലാതാക്കാൻ ആവശ്യമായ അളവിൽ ആൽക്കഹോൾ ഉള്ള ഹാൻഡ് സാനിറ്റൈസർ ഉപയോഗിക്കുക.
+> **കുറഞ്ഞത് 20 സെക്കൻഡ് എങ്കിലും ആൽക്കഹോൾ അടങ്ങിയിട്ടുള്ള ഹാൻഡ് സാനിറ്റൈസർ ഉപയോഗിച്ച് അല്ലെങ്കിൽ സോപ്പും വെള്ളവും ഉപയോഗിച്ച് നിങ്ങളുടെ കൈകൾ ഇടയ്ക്കിടെ കഴുകുക.**
 
-Since transmission mainly occurs through your hands, you should wash them frequently and thoroughly. It is recommended to use soap and water when available, else use hand sanitizers with sufficient amount of alcohol to kill off the germs.
+### നിങ്ങളുടെ കണ്ണുകൾ, മൂക്ക്, വായ എന്നിവ തൊടുന്നത് ഒഴിവാക്കുക
 
-> **Wash your hands frequently with soap and water for atleast 20 seconds or an alcohol based hand sanitizer.**
+വൈറസ് എപ്പോൾ വേണമെങ്കിലും ചർമ്മവുമായി സമ്പർക്കം പുലർത്താം, പ്രത്യേകിച്ച് നിങ്ങളുടെ കൈകളിലൂടെ. മലിനമായ 
+കൈകൾ നിങ്ങളുടെ കണ്ണുകളിലോ മൂക്കിലോ വായിലോ സ്പർശിച്ചാൽ വൈറസ് നിങ്ങളുടെ ശരീരത്തിലേക്ക് പ്രവേശിക്കുന്നു, അതുവഴി നിങ്ങളെ ബാധിക്കുകയും ചെയ്യും.
+> **കൈ കഴുകാതെ മുഖത്ത് തൊടരുത്.**
 
-### Avoid Touching Your Eyes, Nose and Mouth
-
-The virus can come in contact with your skin at any time, particularly your hands. If the contaminated skin touched your eyes, nose or mouth the virus can be transferred into your body thereby infecting you.
-
-> **Don't touch your face without washing your hands first.**
-
-### **Maintain Distance**
+### **ദൂരം നിലനിർത്തുക**
 
 Depending on the level of outbreak in your local community it is [advised ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)to keep a safe distance of at-least 1 meter \(&gt; 3 feet\) from anyone who is coughing or sneezing. If you are in the vicinity when the person sneezes or coughs they can produce small droplets which you can inhale and become infected if the person is infected.
 
-### Cover Your Mouth and Nose while Sneezing or Coughing
+### തുമ്മുകയോ ചുമ ചെയ്യുകയോ ചെയ്യുമ്പോൾ വായും മൂക്കും കവർ ചെയ്യുക
 
-If you are coughing or sneezing do so while covering your face with a bent elbow or a hand kerchief. This would help prevent the spread viruses such as Flu, Cold or COVID-19.
+നിങ്ങൾ ചുമയോ തുമ്മലോ ആണെങ്കിൽ നിങ്ങളുടെ മുഖം കൈമുട്ട് അല്ലെങ്കിൽ കൈകൊണ്ട് മൂടുക. ഫ്ലൂ, കോൾഡ് അല്ലെങ്കിൽ കോവിഡ് -19 പോലുള്ള വൈറസുകൾ തടയാൻ ഇത് സഹായിക്കും.
 
 {% hint style="info" %}
-If you think you have been infected, follow these specialized instructions for your safety and others.
+നിങ്ങൾ രോഗബാധിതനാണെന്ന് കരുതുന്നുവെങ്കിൽ, നിങ്ങളുടെയും മറ്റുള്ളവരുടെയും സുരക്ഷക്കു ഈ നിർദ്ദേശങ്ങൾ പാലിക്കുക.
 {% endhint %}
 
 {% page-ref page="action/i-am-infected.md" %}

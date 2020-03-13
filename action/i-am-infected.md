@@ -7,59 +7,59 @@ description: >-
 
 ## Stay home except to get medical care
 
-* **വീട്ടിൽ തന്നെ തുടരുക:** People who are mildly ill with COVID-19 are able to isolate at home during their illness. You should restrict activities outside your home, except for getting medical care.
+* **വീട്ടിൽ തന്നെ തുടരുക:** ഗുരുതരം അല്ലാത്ത രീതിയിൽ COVID 19 രോഗം ബാധിച്ച വ്യക്തികളെ വീടിനുള്ളിൽ ഐസൊലേറ്റ് ചെയ്യാൻ സാധിക്കും. നിങ്ങൾ മെഡിക്കൽ കെയർ കിട്ടുന്നതിന് അല്ലാതെ വീടിന് പുറത്ത് ഉള്ള പ്രവർത്തികൾ നിയന്ത്രിക്കണം.
 *  **പൊതുസ്ഥലങ്ങളിലേക് സഞ്ചരിക്കുന്നത് ഒഴിവാക്കുക:** ജോലിസ്ഥലത്തേക്കോ സ്കൂളിലേക്കോ പൊതു സ്ഥലങ്ങളിലേക്കോ പോകരുത്.
 * **പൊതു ഗതാഗതം ഒഴിവാക്കുക:** പൊതു ഗതാഗതം, സവാരി പങ്കിടൽ അല്ലെങ്കിൽ ടാക്സികൾ ഉപയോഗിക്കുന്നത് ഒഴിവാക്കുക.
 
 ## നിങ്ങളുടെ വീട്ടിലെ മറ്റ് ആളുകളിൽ നിന്നും മൃഗങ്ങളിൽ നിന്നും സ്വയം വേർപെട്ട് നിൽക്കുക
 
 * **മറ്റുള്ളവരിൽ നിന്ന് അകന്നുനിൽക്കുക:** കഴിയുന്നിടത്തോളം, നിങ്ങൾ ഒരു നിർദ്ദിഷ്ട മുറിയിൽ താമസിക്കുകയും നിങ്ങളുടെ വീട്ടിലെ മറ്റ് ആളുകളിൽ നിന്ന് അകന്നുനിൽക്കുകയും വേണം. കൂടാതെ, ലഭ്യമെങ്കിൽ നിങ്ങൾ ഒരു പ്രത്യേക കുളിമുറി ഉപയോഗിക്കണം.
-* **വളർത്തുമൃഗങ്ങളുമായുള്ള സമ്പർക്കം പരിമിതപ്പെടുത്തുക** You should restrict contact with pets and other animals while you are sick with COVID-19, just like you would around other people. Although there have not been reports of pets or other animals becoming sick with COVID-19, it is still recommended that people sick with COVID-19 limit contact with animals until more information is known about the virus.
-* When possible, have another member of your household care for your animals while you are sick. If you are sick with COVID-19, avoid contact with your pet, including petting, snuggling, being kissed or licked, and sharing food. If you must care for your pet or be around animals while you are sick, wash your hands before and after you interact with pets and wear a facemask.
+* **വളർത്തുമൃഗങ്ങളുമായുള്ള സമ്പർക്കം പരിമിതപ്പെടുത്തുക** COVID 19 രോഗം ബാധിച്ചു കഴിഞ്ഞാൽ വളർത്തുന്ന ജീവികളോട് ഉള്ള സമ്പർക്കം ഒഴിവാക്കുക. നിലവിൽ ഒരു മൃഗത്തിനും വളർത്തുന്ന ജീവികൾക്കും COVID 19 സ്ഥിതീകരിച്ചിട്ടില്ല. എങ്കിലും കൂടുതൽ വിവരങ്ങൾ ലഭ്യമാകുന്നത് വരെ അത്തരം സമ്പർക്കങ്ങൾ ഒഴിവാക്കുക.
+* നിങ്ങൾക്ക് രോഗം ബാധിച്ചു കഴിഞ്ഞാൽ സാധ്യം ആകുക ആണ് എങ്കിൽ നിങ്ങളുടെ കുടുംബത്തിലെ മറ്റൊരു വ്യക്തിയെ വളർത്തുന്ന ജീവികളെ പരിപാലിക്കാൻ ചുമതലപ്പെടുത്തുക. അല്ലാത്ത പക്ഷം നിങ്ങൾ വളർത്തുന്ന ജീവികളോട് ഇടപഴകുമ്പോൾ നിർബന്ധം ആയും ഫേസ് മാസ്ക് ധരിക്കുക
 
 ## നിങ്ങൾ ഡോക്ടറെ സന്ദർശിക്കുന്നതിന് മുമ്പ് വിളിച്ച് കാര്യങ്ങൾ അവതരിപ്പിക്കുക
 
 * നിങ്ങൾക്ക് ഒരു മെഡിക്കൽ അപ്പോയിന്റ്മെന്റ് ഉണ്ടെങ്കിൽ, ആരോഗ്യസംരക്ഷണ ദാതാവിനെ വിളിച്ച് നിങ്ങൾക്ക് COVID-19 ഉണ്ടെന്നും അല്ലെങ്കിൽ COVID-19 ഉണ്ടോ എന്ന് സംശയം ഉണ്ടെന്നും അവരോട് പറയുക. ആരോഗ്യസംരക്ഷണ ദാതാവിന്റെ ഓഫീസിൽ നിന്നും മറ്റ് ആളുകളെ രോഗബാധിതരാകാതിരിക്കാനോ തടയാനോ കഴിയാത്തവിധം നടപടിയെടുക്കാൻ ഇത് സഹായിക്കും.
 
 ## നിങ്ങൾക്ക് അസുഖമുണ്ടെങ്കിൽ ഫെയ്‌സ്മാസ്ക് ധരിക്കുക
-* **If you are sick:** You should wear a facemask when you are around other people \(e.g., sharing a room or vehicle\) or pets and before you enter a healthcare provider’s office.
-* **If you are caring for others:** If the person who is sick is not able to wear a facemask \(for example, because it causes trouble breathing\), then people who live with the person who is sick should not stay in the same room with them, or they should wear a facemask if they enter a room with the person who is sick.
+* **നിങ്ങൾക്ക് അസുഖമുണ്ടെങ്കിൽ:** You should wear a facemask when you are around other people \(e.g., sharing a room or vehicle\) or pets and before you enter a healthcare provider’s office.
+* **നിങ്ങൾ മറ്റുള്ളവരെ പരിപാലിക്കുകയാണെങ്കിൽ:** രോഗം ബാധിച്ച വ്യക്തിക്ക് ഫേസ് മാസ്ക് ധരിക്കാൻ സാധിക്കുന്നില്ല എങ്കിൽ ( ഉദാഹരണത്തിന് ശ്വാസ തടസ്സം ഉണ്ടാകുന്നുണ്ട് എങ്കിൽ ) രോഗിയുടെ കൂടെ കഴിയുന്ന വ്യക്‌തികൾ രോഗിയെ സന്ദർശിക്കുന്ന അവസരങ്ങളിൽ നിർബന്ധം ആയും മാസ്ക് ധരിക്കണം. ഒരിക്കലും മാസ്ക് ഇല്ലാതെ രോഗിയുടെ മുറിയിൽ നിൽക്കരുത്.
 
-## Cover your coughs and sneezes
+## നിങ്ങളുടെ ചുമയും തുമ്മലും കവർ ചെയ്യുക
 
-* **Cover:** Cover your mouth and nose with a tissue when you cough or sneeze.
-* **Dispose:** Throw used tissues in a lined trash can.
-* **Wash hands:** Immediately wash your hands with soap and water for at least 20 seconds or, if soap and water are not available, clean your hands with an alcohol-based hand sanitizer that contains at least 60% alcohol.
+* **കവർ :** ചുമയോ തുമ്മലോ വരുമ്പോൾ ടിഷ്യു ഉപയോഗിച്ച് വായയും മൂക്കും കവർ ചെയ്യുക
+* **കളയുക:** ഉപയോഗിച്ച ടിഷ്യൂകൾ ചവറ്റുകുട്ടയിൽ കളയുക.
+* **കൈ കഴുകുക:** കുറഞ്ഞത് 20 സെക്കൻഡുകൾ എങ്കിലും കൈകൾ സോപ്പ് ഉപയോഗിച്ചോ, 60 % ആൽക്കഹോൾ അടങ്ങിയ സാനിറ്റൈസർ ഉപയോഗിച്ചോ കഴുകണം.
 
-## Clean your hands often
+## നിങ്ങളുടെ കൈകൾ ഇടകയിടക്കു വൃത്തിയാക്കുക
 
-* **Wash hands:** Wash your hands often with soap and water for at least 20 seconds, especially after blowing your nose, coughing, or sneezing; going to the bathroom; and before eating or preparing food.
-* **Hand sanitizer**: If soap and water are not readily available, use an alcohol-based hand sanitizer with at least 60% alcohol, covering all surfaces of your hands and rubbing them together until they feel dry.
-* **Soap and water:** Soap and water are the best option if hands are visibly dirty.
-* **Avoid touching:** Avoid touching your eyes, nose, and mouth with unwashed hands.
+* **കൈ കഴുകുക:** ജലദോഷം, ചുമ, തുമ്മൽ എന്നിവ ഉള്ളപ്പോളും, ബാത്ത് റൂമിൽ പോകുമ്പോളും, ഭക്ഷണം കഴിക്കുന്നതിന് മുൻപും, കഴിച്ചു കഴിഞ്ഞും, ഭക്ഷണം പാകം ചെയ്യുന്നതിന് മുൻപും കുറഞ്ഞത് 20 സെക്കൻഡുകൾ എങ്കിലും കൈകൾ സോപ്പ് ഉപയോഗിച്ചോ, 60 % ആൽക്കഹോൾ അടങ്ങിയ സാനിറ്റൈസർ ഉപയോഗിച്ചോ കഴുകണം.
+* **ഹാൻഡ് സാനിറ്റൈസർ**: സോപ്പ്, വെള്ളം എന്നിവ ലഭ്യമാകാത്ത സാഹചര്യങ്ങളിൽ 60 % ആൽക്കഹോൾ അടങ്ങിയ സാനിറ്റൈസർ ഉപയോഗിച്ച് കൈകൾ വൃത്തി ആക്കുക
+* **സോപ്പും വെള്ളവും:** കൈകൾ വൃത്തിഹീനം ആണെങ്കിൽ സോപ്പും വെള്ളവും മികച്ച ഓപ്ഷനാണ്.
+* **തൊടുന്നത് ഒഴിവാക്കുക:** കഴുകാത്ത കൈകളാൽ നിങ്ങളുടെ കണ്ണുകൾ, മൂക്ക്, വായ എന്നിവ തൊടുന്നത് ഒഴിവാക്കുക.
 
-## Avoid sharing personal household items
+## വ്യക്തിഗത ഗാർഹിക ഉപകരണങ്ങൾ പങ്കിടുന്നത് ഒഴിവാക്കുക
 
-* **Do not share:** You should not share dishes, drinking glasses, cups, eating utensils, towels, or bedding with other people or pets in your home.
-* **Wash thoroughly after use:** After using these items, they should be washed thoroughly with soap and water.
+* **പങ്കിടരുത്:** നിങ്ങൾ ഒരിക്കലും നിങ്ങൾ ഉപയോഗിക്കുന്ന പാത്രങ്ങൾ, ഗ്ലാസ്സുകൾ, കപ്പുകൾ, ടവലുകൾ തുടങ്ങിയ വസ്തുക്കൾ മറ്റുള്ളവർക്കും, വളർത്തുന്ന ജീവികൾക്കും ഉപയോഗിക്കാൻ നൽകരുത്.
+* **ഉപയോഗിച്ചതിന് ശേഷം നന്നായി കഴുകുക:** ഈ ഇനങ്ങൾ ഉപയോഗിച്ച ശേഷം സോപ്പും വെള്ളവും ഉപയോഗിച്ച് നന്നായി കഴുകണം.
 
-## Clean all “high-touch” surfaces everyday
+## എല്ലാ “ഹൈ-ടച്ച്” ഉപരിതലങ്ങളും ദിവസവും വൃത്തിയാക്കുക
 
-* **Clean and disinfect:** Practice routine cleaning of high touch surfaces. \*\*High touch surfaces include counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, and bedside tables.
-* **Disinfect areas with bodily fluids:** Also, clean any surfaces that may have blood, stool, or body fluids on them.
-* **Household cleaners:** Use a household cleaning spray or wipe, according to the label instructions. Labels contain instructions for safe and effective use of the cleaning product including precautions you should take when applying the product, such as wearing gloves and making sure you have good ventilation during use of the product.
+* **വൃത്തിയാക്കി അണുവിമുക്തമാക്കുക:** ഏറ്റവും കൂടുതൽ സ്പർശിക്കുന്ന വസ്തുക്കളും പ്രതലങ്ങളും വൃത്തി ആക്കുന്നത് ശീലിക്കുക. ഉദാഹരണത്തിന് ബാത്ത് റൂം ഫിക്സ്ചറുകൾ, ടോയ്ലറ്റുകൾ, ഫോണുകൾ, കീ ബോർഡുകൾ, ടാബ്‌ലറ്റുകൾ, മേശകൾ, വാതിലുകൾ തുടങ്ങിയ പ്രതലങ്ങൾ.
+* **ശാരീരിക ദ്രാവകങ്ങൾ ഉള്ള പ്രദേശങ്ങൾ അണുവിമുക്തമാക്കുക:** കൂടാതെ, രക്തം, മലം അല്ലെങ്കിൽ ശരീര ദ്രാവകങ്ങൾ എന്നിവയുള്ള ഏതെങ്കിലും ഉപരിതലങ്ങൾ വൃത്തിയാക്കുക.
+* **ഗാർഹിക ക്ലീനർ:** ലേബൽ നിർദ്ദേശങ്ങൾ അനുസരിച്ച് ഒരു ഗാർഹിക ക്ലീനിംഗ് സ്പ്രേ ഉപയോഗിച്ച് വൃത്തി ആക്കുക. കയ്യുറകൾ ധരിക്കുക, ഉൽപ്പന്നത്തിന്റെ ഉപയോഗ സമയത്ത് നിങ്ങൾക്ക് നല്ല വായു സഞ്ചാരം ഉണ്ട് എന്ന് ഉറപ്പാക്കുക എന്നിങ്ങനെയുള്ള മുൻ കരുതലുകൾ ഉൾപ്പെടെ ക്ലീനിംഗ് ഉൽപ്പന്നത്തിന്റെ സുരക്ഷിതവും ഫലപ്രദവുമായ ഉപയോഗത്തിനുള്ള നിർദ്ദേശങ്ങൾ ലേബലുകളിൽ അടങ്ങിയിരിക്കുന്നു.
 
-## Monitor your symptoms
+## നിങ്ങളുടെ ലക്ഷണങ്ങൾ നിരീക്ഷിക്കുക
 
-* **Seek medical attention:** Seek prompt medical attention if your illness is worsening \(e.g., difficulty breathing\).
-* **Call your doctor:** Before seeking care, call your healthcare provider and tell them that you have, or are being evaluated for, COVID-19.
-* **Wear a facemask when sick:** Put on a facemask before you enter the facility. These steps will help the healthcare provider’s office to keep other people in the office or waiting room from getting infected or exposed.
-* **Alert health department:** Ask your healthcare provider to call the local or state health department. Persons who are placed under active monitoring or facilitated self-monitoring should follow instructions provided by their local health department or occupational health professionals, as appropriate.
+* **വൈദ്യസഹായം തേടുക:** നിങ്ങളുടെ രോഗം വഷളാകുകയാണെങ്കിൽ ഉടൻ വൈദ്യസഹായം തേടുക \(ഉദാ. ശ്വസിക്കാനുള്ള ബുദ്ധിമുട്ട്\).
+* **നിങ്ങളുടെ ഡോക്ടറെ വിളിക്കുക:** വൈദ്യ സഹായം ആവശ്യപ്പെടുന്നതിന് മുൻപ് ബന്ധപ്പെട്ട വ്യക്തികളോട് നിങ്ങൾ COVID 19 ബാധിച്ചത് ആണ് അല്ല എങ്കിൽ പരിശോധിക്കാൻ ആണ് എന്ന കാര്യം വെളിപ്പെടുത്തുക.
+* **അസുഖമുള്ളപ്പോൾ ഫെയ്‌സ്മാസ്ക് ധരിക്കുക:** വൈദ്യ സഹായം തേടുമ്പോൾ ഓഫീസിന് ഉള്ളിൽ പ്രവേശിക്കുമ്പോൾ നിർബന്ധം ആയും ഫേസ് മാസ്ക് ധരിക്കണം. ഇത് ഓഫീസിലോ വെയ്റ്റിംഗ് റൂമിലോ ഉള്ള ആളുകൾക്ക് രോഗം പകരുന്നത് തടയാൻ സഹായിക്കും.
+* **ആരോഗ്യ വകുപ്പിനെ അലർട്ട് ചെയ്യുക:** നിങ്ങൾക്ക് ആരോഗ്യ സേവനങ്ങൾ നൽകുന്ന വ്യക്തിയോട് പ്രാദേശിക അല്ല എങ്കിൽ സംസ്ഥാന ആരോഗ്യ വകുപ്പിനോട് ബന്ധപ്പെടാൻ ആവശ്യപ്പെടുക. നിരീക്ഷണത്തിന് വിധേയം ആയവർ ആരോഗ്യ വകുപ്പിന്റെയും ആരോഗ്യ വിദഗ്ധരുടെയും നിർദ്ദേശങ്ങൾ പാലിക്കുക.
 
 ## Discontinuing home isolation
 
-* **Stay at home until instructed to leave:** Patients with confirmed COVID-19 should remain under home isolation precautions until the risk of secondary transmission to others is thought to be low.
-* **Talk to your healthcare provider:** The decision to discontinue home isolation precautions should be made on a case-by-case basis, in consultation with healthcare providers and state and local health departments.
+* **വീട് വിട്ട് പുറത്ത് പോകാൻ നിർദ്ദേശം ലഭിക്കുന്നതുവരെ വീട്ടിൽ തന്നെ തുടരുക:** COVID 19 സ്ഥിതികരിച്ചവർ  മറ്റുള്ളവർക്ക് പകരാൻ ഉള്ള സാധ്യതകൾ അവസാനിക്കുന്നത് വരെ ഹോം ഐസൊലേഷനിൽ തുടരുക.
+* **നിങ്ങളുടെ ആരോഗ്യ പരിരക്ഷാ ദാതാവിനോട് സംസാരിക്കുക:** ആരോഗ്യ ഇൻഷുറൻസ് ദാതാക്കളുമായും സംസ്ഥാന, പ്രാദേശിക ആരോഗ്യ വകുപ്പുകളുമായും കൂടിയാലോചിച്ച് ഓരോ കേസും അനുസരിച്ച് ഹോം ഐസോലാഷൻ മുൻകരുതലുകൾ നിർത്തലാക്കാനുള്ള തീരുമാനം എടുക്കണം.
 
-Source : [https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html)
+ഉറവിടം: [https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html](https://www.cdc.gov/coronavirus/2019-ncov/about/steps-when-sick.html)
 

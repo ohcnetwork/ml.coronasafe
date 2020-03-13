@@ -1,11 +1,11 @@
 ---
-description: These protocols are to be followed when travelling through Airports
+description: വിമാനത്താവളങ്ങളിലൂടെ സഞ്ചരിക്കുമ്പോൾ ഈ പ്രോട്ടോക്കോളുകൾ പാലിക്കേണ്ടതുണ്ട്
 ---
 
-# Airport
+# വിമാനത്താവളം
 
 {% hint style="info" %}
-Work in Progress, refer the below given infographic fir more information
+ജോലി പുരോഗതിയിലാണ്, കൂടുതൽ വിവരങ്ങൾക്ക് ചുവടെ നൽകിയിരിക്കുന്ന ഇൻഫോഗ്രാഫിക് കാണുക
 {% endhint %}
 
 ![](../.gitbook/assets/image_from_ios.jpg)

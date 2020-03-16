@@ -23,17 +23,17 @@ COVID 19 വളരെ വേഗത്തിൽ പകരുന്ന കൊറ�
 
 ## **ഉള്ളടക്കം**
 
-{% page-ref page="precautions.md" %}
+[മുൻകരുതലുകളും പ്രതിരോധ നടപടികളും | Preacautions](precautions.md)
 
-{% page-ref page="symptoms.md" %}
+[ലക്ഷണങ്ങൾ | symptoms](symptoms.md)
 
-{% page-ref page="myths-and-fake-news.md" %}
+[തെറ്റിദ്ധാരണകളും വ്യാജ വാർത്തകളും | myths-and-fake-news](myths-and-fake-news.md)
 
-{% page-ref page="know-covid-19-1/covid-19-virus-strain.md" %}
+[വൈറസ് ബുദ്ധിമുട്ട് | covid-19-virus-strain](know-covid-19-1/covid-19-virus-strain.md)
 
-{% page-ref page="faq.md" %}
+[പതിവുചോദ്യങ്ങൾ | faq](faq.md)
 
-{% page-ref page="resources/official-resources.md" %}
+[ഔദ്യോഗിക വിവരങ്ങൾ | official-resources](resources/official-resources.md)
 
-{% page-ref page="resources/sources.md" %}
+[ഉറവിടങ്ങൾ | sources](resources/sources.md)
 

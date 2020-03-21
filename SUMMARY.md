@@ -4,6 +4,7 @@
 * [മുൻകരുതലുകളും പ്രതിരോധ നടപടികളും](precautions.md)
 * [ലക്ഷണങ്ങൾ](symptoms.md)
 * [വൃദ്ധരും ആരോഗ്യ പ്രശ്നങ്ങൾ പ്രശ്നങ്ങളുള്ള ആളുകളും](old-and-people-with-medical-issues.md)
+* [കേരളസർക്കാർ ആരോഗ്യവിഭാഗം പുറപ്പെടുവിച്ച വിവിധ മാർഗനിർദേശങ്ങൾ](health-advisories-by-kerala-government.md)
 * [തെറ്റിദ്ധാരണകളും വ്യാജ വാർത്തകളും](myths-and-fake-news.md)
 * [പതിവുചോദ്യങ്ങൾ](faq.md)
 * [സംഭാവന](contribute.md)

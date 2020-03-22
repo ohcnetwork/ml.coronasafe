@@ -38,5 +38,3 @@ COVID 19 വളരെ വേഗത്തിൽ പകരുന്ന കൊറ�
 {% page-ref page="resources/sources.md" %}
 
 {% page-ref page="health-advisories-by-kerala-government.md" %}
-
-
